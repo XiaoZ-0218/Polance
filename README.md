@@ -90,3 +90,7 @@ ADDRESSES_JSON=[{"name":"主号","address":"0x1111111111111111111111111111111111
 - 如果提示 `ADDRESSES_JSON` 未配置，请检查 `.env` 是否存在且 JSON 格式正确
 - 如果提示缺少 `dotenv`，请确认已经激活虚拟环境并执行 `pip install -r requirements.txt`
 - 如果页面无法显示 USDC.e 余额，通常是当前 RPC 节点请求失败，可在 `.env` 中调整 `POLYGON_RPC_URLS`
+
+## License
+
+本项目采用 [MIT License](LICENSE) 开源许可。
