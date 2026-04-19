@@ -1735,7 +1735,6 @@ def main():
     for i, item in enumerate(deduped, 1):
         print(f"  {i:02d}. {item['name']} -> {item['address']}")
     print(f"本机访问: http://127.0.0.1:{PORT}")
-    print(f"局域网访问: http://你的服务器IP:{PORT}")
     print("=" * 76)
 
     server.serve_forever()
