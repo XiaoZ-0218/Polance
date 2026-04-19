@@ -93,4 +93,6 @@ ADDRESSES_JSON=[{"name":"主号","address":"0x1111111111111111111111111111111111
 
 ## License
 
-本项目采用 [MIT License](LICENSE) 开源许可。
+本项目基于 [MIT License](LICENSE) 开源。
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
